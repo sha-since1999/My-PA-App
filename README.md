@@ -5,8 +5,6 @@ This is my final year project on iOS app Development.
 
 <img width=100%  style="algin:center" src="demoview.gif" />
  
-Script of  mPA app
-
 This is my Pocket academy app in short mPA App for managing assignment and tutorials for any college .
 Basic we know there is a lot of app provide this type of feature but our intension to create this project to provide easy and reliable Ui for such app with minimum depth so that I have tried to create this  easy user understandable  app for for managing assignment / tutorial and notice for any college  at current  this app has certain limitation and  boundaries but in future we can scale as per requirement.
 
